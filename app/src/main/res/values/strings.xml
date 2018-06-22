@@ -24,6 +24,8 @@
     <!--or something similar.-->
     <string name="app_name">Sunshine</string>
 
+    <string name="btn_refresh_title">Refresh</string>
+    <string name="load_error_message">Error in loading weather data, please refresh and try again.</string>
 
     <!-- - - - - - - - - - - - - -->
     <!--Used by SunshineDateUtils-->
